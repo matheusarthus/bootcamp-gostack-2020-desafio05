@@ -1,0 +1,12 @@
+--CAPTANDO ERROS
+
+--Criar estrurua de 'try' e 'cath error'
+--no arquivo 'indes.js' do component Main
+  ->Colocar teste de consistência de 'diretório existente'
+  ->e de 'diretório duplicado'
+
+--Configurar 'styles.js' do Main para colocar borda vermelha no form
+--caso ocorra erro
+
+--Criar filtro de estado no arquivo 'index.js' do component Repository
+  ->Criar nova variável de estado 'filters'
